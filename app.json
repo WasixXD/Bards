@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "bards",
+    "slug": "bards",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bardIcon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/bard.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FCC31C"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bardIcon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.wasixxd.bards"
+    },
+    "web": {
+      "favicon": "./assets/bardIcon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c2814aaf-2daa-4842-b581-f60cfbec0711"
+      }
+    }
+  }
+}
