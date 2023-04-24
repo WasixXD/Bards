@@ -9,6 +9,8 @@ They can track their position in the queue and receive notifications when their 
 # Challenges 🐢
 - New to React Native
 
+
+
 # Goals 🏆
 - [ x ] Customer can add his name to a queue
 - [ x ] Real time queue
@@ -21,6 +23,9 @@ They can track their position in the queue and receive notifications when their 
 
 # How it works? 💼
 The user enters the app and click a Middle button to make a table request, then it sends this information to Firestore and in the menu the data is loaded/parsed and showed to the customer
+
+# Installation 🏗️
+You can install from source or install the apk [here](https://github.com/WasixXD/Bards/releases/download/apk/bard.apk)
 
 # Design 🎨
 
